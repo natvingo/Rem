@@ -5,12 +5,27 @@ prioritet: 7,
 maxrank: 0
 },
 {
-dir: "bloodborne--lady-maria-and-the-old-hunters",
+dir: "dungeons--dragons-legends-of-baldurs-gate",
 prioritet: 7,
 maxrank: 0
 },
 {
 dir: "elden-ring-become-load",
+prioritet: 7,
+maxrank: 0
+},
+{
+dir: "ghost-rider",
+prioritet: 7,
+maxrank: 0
+},
+{
+dir: "blade_of_demon_destruction",
+prioritet: 7,
+maxrank: 0
+},
+{
+dir: "bloodborne--lady-maria-and-the-old-hunters",
 prioritet: 7,
 maxrank: 0
 },
@@ -30,122 +45,92 @@ prioritet: 7,
 maxrank: 0
 },
 {
-dir: "dungeons--dragons-legends-of-baldurs-gate",
-prioritet: 7,
-maxrank: 0
-},
-{
-dir: "ghost-rider",
-prioritet: 7,
-maxrank: 0
-},
-{
-dir: "blade_of_demon_destruction",
-prioritet: 7,
-maxrank: 0
-},
-{
 dir: "i-broke-off-my-engagement-with-the-state",
 prioritet: 6,
-maxrank: 
-},
-{
-dir: "wind_breaker",
-prioritet: 6,
-maxrank: 0
-},
-{
-dir: "demon-lord-hates-reverse-harem",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "became-the-target-of-male-protagonists",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "the-lich-who-became-a-paladin",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "the-laws-of-cultivation",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "legend_of_an_angel",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "dear-my-living-dead",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "nier-automata-yorha-pearl-harbor-descent-mission-record",
-prioritet: 6,
-maxrank: 0
-},
-{
-dir: "omniscient-reader",
-prioritet: 6,
-maxrank: 0
-},
-{
-dir: "fategrand-orderturas-realta",
-prioritet: 6,
-maxrank: 0
-},
-{
-dir: "mosin-hunter/chapters?ordering=index",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "doomsday-sword-god-i-shocked-the-world",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "ice-guy-and-the-cool-female-colleague",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "land-of-the-lustrous",
-prioritet: 6,
-maxrank: 0
-},
-{
-dir: "re_zero_kara_hajimeru_isekai_seikatsu_daisanshou_truth_of_zero",
-prioritet: 6,
-maxrank: 0
-},
-{
-dir: "wuthering-waves",
-prioritet: 6,
-maxrank: 0
-},
-{
-dir: "if-i-see-the-blood-i-will-be-punished-by-the-gods",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "avatar__the_last_airbender",
-prioritet: 6,
-maxrank: 0
-},
-{
-dir: "chainsaw-man",
-prioritet: 6,
-maxrank: 0
+maxrank: rank_f
 },
 {
 dir: "bleach",
+prioritet: 6,
+maxrank: 0
+},
+{
+dir: "the-eminence-in-shadow",
+prioritet: 6,
+maxrank: 0
+},
+{
+dir: "helck",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "martial-arts-reigns",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "emperor-wang-xin",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "slave-emperor",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "reincarnated_as_a_dragons_egg_lets_aim_to_be_the_strongest",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "how-did-it-happen",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "powerful-system-of-involution",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "so_pure_so_flirtatious",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "im-ready-to-kill-the-god-without-any-cheats",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "i-got-a-cheat-ability-in-a-different-world-and-became-extraordinary-even-in-the-real-world",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "cube-in-samurai",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "i-am-the-incomparable-god-of-war",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "the-demon-king-who-lost-his-job",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "i-am-invincible-in-the-postapocalyptic-fantasy-world/main",
+prioritet: 6,
+maxrank: rank_f
+},
+{
+dir: "wuthering-waves",
 prioritet: 6,
 maxrank: 0
 },
@@ -160,139 +145,149 @@ prioritet: 6,
 maxrank: 0
 },
 {
+dir: "chef-kang-from-another-world",
+prioritet: 6,
+maxrank: rank_f
+},
+{
 dir: "the-witcher-fading-memories",
 prioritet: 6,
 maxrank: 0
 },
 {
-dir: "the-behindthescenes-work-of-the-student-body-president/main",
+dir: "gwichonri",
 prioritet: 6,
-maxrank: 
-},
-{
-dir: "the-super-doctor-from-2089",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "volcano-sect-genius-swordsman",
-prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
 dir: "shinmas-line",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "gwichonri",
+dir: "volcano-sect-genius-swordsman",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "chef-kang-from-another-world",
+dir: "the-super-doctor-from-2089",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "karate-survivor-in-another-world",
+dir: "the-behindthescenes-work-of-the-student-body-president/main",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "sengse-pension",
+dir: "the-lich-who-became-a-paladin",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "magan-no-akuyaku-ni-tensei-shita-no-de-oshi-chara-o-mimamoru-mob-o-mezashimasu",
+dir: "legend_of_an_angel",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
 dir: "evolution-frnzy",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "i-am-invincible-in-the-postapocalyptic-fantasy-world/main",
+dir: "ice-guy-and-the-cool-female-colleague",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "the-demon-king-who-lost-his-job",
+dir: "mosin-hunter/chapters?ordering=index",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "i-am-the-incomparable-god-of-war",
+dir: "if-i-see-the-blood-i-will-be-punished-by-the-gods",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "cube-in-samurai",
+dir: "doomsday-sword-god-i-shocked-the-world",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "i-got-a-cheat-ability-in-a-different-world-and-became-extraordinary-even-in-the-real-world",
+dir: "magan-no-akuyaku-ni-tensei-shita-no-de-oshi-chara-o-mimamoru-mob-o-mezashimasu",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "im-ready-to-kill-the-god-without-any-cheats",
+dir: "demon-lord-hates-reverse-harem",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "so_pure_so_flirtatious",
+dir: "became-the-target-of-male-protagonists",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "powerful-system-of-involution",
+dir: "sengse-pension",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "how-did-it-happen",
+dir: "the-laws-of-cultivation",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "reincarnated_as_a_dragons_egg_lets_aim_to_be_the_strongest",
+dir: "dear-my-living-dead",
 prioritet: 6,
-maxrank: 
+maxrank: rank_f
 },
 {
-dir: "slave-emperor",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "emperor-wang-xin",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "martial-arts-reigns",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "helck",
-prioritet: 6,
-maxrank: 
-},
-{
-dir: "the-eminence-in-shadow",
+dir: "nier-automata-yorha-pearl-harbor-descent-mission-record",
 prioritet: 6,
 maxrank: 0
 },
 {
-dir: "eirrizos-dead-by-daylight-collection",
-prioritet: 5,
+dir: "fategrand-orderturas-realta",
+prioritet: 6,
 maxrank: 0
+},
+{
+dir: "land-of-the-lustrous",
+prioritet: 6,
+maxrank: 0
+},
+{
+dir: "re_zero_kara_hajimeru_isekai_seikatsu_daisanshou_truth_of_zero",
+prioritet: 6,
+maxrank: 0
+},
+{
+dir: "avatar__the_last_airbender",
+prioritet: 6,
+maxrank: 0
+},
+{
+dir: "chainsaw-man",
+prioritet: 6,
+maxrank: 0
+},
+{
+dir: "wind_breaker",
+prioritet: 6,
+maxrank: 0
+},
+{
+dir: "omniscient-reader",
+prioritet: 6,
+maxrank: 0
+},
+{
+dir: "karate-survivor-in-another-world",
+prioritet: 6,
+maxrank: rank_f
 },
 {
 dir: "naruto",
@@ -300,72 +295,42 @@ prioritet: 5,
 maxrank: 0
 },
 {
-dir: "cloud-insect",
+dir: "how-to-kill-a-go",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "the-surviving-the-apocalypse-i-was-reborn-as-a-cockroach",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "how-to-tame-a-monster-duke",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "princess-ai-monogatari",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "genius-mushroom-trainer",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "if-i-fail-to-debut-ill-get-a-killer-disease",
 prioritet: 5,
 maxrank: 0
 },
 {
-dir: "liliths-cord",
+dir: "a-party-cure",
 prioritet: 5,
-maxrank: 0
-},
-{
-dir: "machines",
-prioritet: 5,
-maxrank: 0
-},
-{
-dir: "mobile-legends-bang-bang-comics-edition",
-prioritet: 5,
-maxrank: 0
-},
-{
-dir: "he-idolmster-shiny-colors--coherent-light",
-prioritet: 5,
-maxrank: 0
-},
-{
-dir: "high-school-dxd",
-prioritet: 5,
-maxrank: 0
-},
-{
-dir: "starting-gate",
-prioritet: 5,
-maxrank: 0
-},
-{
-dir: "one_piece",
-prioritet: 5,
-maxrank: 0
-},
-{
-dir: "kpop-demon-hunters",
-prioritet: 5,
-maxrank: 0
-},
-{
-dir: "dark-souls--slave-knight-gael",
-prioritet: 5,
-maxrank: 0
-},
-{
-dir: "fairy-tail-100-years-quest",
-prioritet: 5,
-maxrank: 0
-},
-{
-dir: "hunter_x_hunter",
-prioritet: 5,
-maxrank: 0
+maxrank: rank_c
 },
 {
 dir: "visual--story-file--artbook-berserk",
-prioritet: 5,
-maxrank: 0
-},
-{
-dir: "aisha",
 prioritet: 5,
 maxrank: 0
 },
@@ -445,7 +410,7 @@ prioritet: 5,
 maxrank: 0
 },
 {
-dir: "stories-of-remanga-events",
+dir: "fairy-tail-100-years-quest",
 prioritet: 5,
 maxrank: 0
 },
@@ -475,7 +440,27 @@ prioritet: 5,
 maxrank: 0
 },
 {
-dir: "castlevania-curse-of-darkness",
+dir: "eirrizos-dead-by-daylight-collection",
+prioritet: 5,
+maxrank: 0
+},
+{
+dir: "one_piece",
+prioritet: 5,
+maxrank: 0
+},
+{
+dir: "hunter_x_hunter",
+prioritet: 5,
+maxrank: 0
+},
+{
+dir: "aisha",
+prioritet: 5,
+maxrank: 0
+},
+{
+dir: "stories-of-remanga-events",
 prioritet: 5,
 maxrank: 0
 },
@@ -487,85 +472,110 @@ maxrank: 0
 {
 dir: "god-maker",
 prioritet: 5,
-maxrank: 
+maxrank: rank_c
 },
 {
-dir: "how-to-survive-as-a-civil-servant-in-the-martial-arts-world",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "spirit-king-elqueeness",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "surviving-as-a-fish",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "the-i-was-turned-into-a-field",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "high-class",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "there-is-a-snake-in-the-empresss-bedroom",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "the-beginning-of-the-live-broadcast-hell-who-dares-to-go-to-this-live-broadcast-room",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "immutable-law",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "edge_of_tomorrow",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "how-to-kill-a-go",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "the-surviving-the-apocalypse-i-was-reborn-as-a-cockroach",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "how-to-tame-a-monster-duke",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "princess-ai-monogatari",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "genius-mushroom-trainer",
-prioritet: 5,
-maxrank: 
-},
-{
-dir: "if-i-fail-to-debut-ill-get-a-killer-disease",
+dir: "dark-souls--slave-knight-gael",
 prioritet: 5,
 maxrank: 0
 },
 {
-dir: "lookism",
+dir: "kpop-demon-hunters",
+prioritet: 5,
+maxrank: 0
+},
+{
+dir: "starting-gate",
+prioritet: 5,
+maxrank: 0
+},
+{
+dir: "high-school-dxd",
+prioritet: 5,
+maxrank: 0
+},
+{
+dir: "he-idolmster-shiny-colors--coherent-light",
+prioritet: 5,
+maxrank: 0
+},
+{
+dir: "mobile-legends-bang-bang-comics-edition",
+prioritet: 5,
+maxrank: 0
+},
+{
+dir: "castlevania-curse-of-darkness",
+prioritet: 5,
+maxrank: 0
+},
+{
+dir: "machines",
+prioritet: 5,
+maxrank: 0
+},
+{
+dir: "liliths-cord",
+prioritet: 5,
+maxrank: 0
+},
+{
+dir: "cloud-insect",
+prioritet: 5,
+maxrank: 0
+},
+{
+dir: "how-to-survive-as-a-civil-servant-in-the-martial-arts-world",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "spirit-king-elqueeness",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "surviving-as-a-fish",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "the-i-was-turned-into-a-field",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "high-class",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "there-is-a-snake-in-the-empresss-bedroom",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "the-beginning-of-the-live-broadcast-hell-who-dares-to-go-to-this-live-broadcast-room",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "immutable-law",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "edge_of_tomorrow",
+prioritet: 5,
+maxrank: rank_c
+},
+{
+dir: "howls-moving-castle-dj--sweet-dreams",
+prioritet: 4,
+maxrank: 0
+},
+{
+dir: "transformery-pervoe-pokolenie",
 prioritet: 4,
 maxrank: 0
 },
@@ -575,57 +585,57 @@ prioritet: 4,
 maxrank: 0
 },
 {
-dir: "rosario_to_vampire",
+dir: "star-wars-the-mandalorian",
 prioritet: 4,
 maxrank: 0
 },
 {
-dir: "one_piece",
+dir: "lookism",
 prioritet: 4,
 maxrank: 0
 },
 {
-dir: "solo-leveling",
+dir: "dont-smoke",
 prioritet: 4,
 maxrank: 0
 },
 {
-dir: "overvotch",
+dir: "isekai-suicide-squa",
 prioritet: 4,
 maxrank: 0
 },
 {
-dir: "apex-legends-overtime",
+dir: "jojos_bizarre_adventure_part_4_diamond_is_unbreakable",
 prioritet: 4,
 maxrank: 0
 },
 {
-dir: "my-neighbor-totoro",
+dir: "cyberpunk-2077",
 prioritet: 4,
 maxrank: 0
 },
 {
-dir: "honkai-impact-3rd--st-freya-high",
+dir: "death-note--",
 prioritet: 4,
 maxrank: 0
 },
 {
-dir: "gokurakugai-sanbandori",
+dir: "tokyo_ghoul",
 prioritet: 4,
 maxrank: 0
 },
 {
-dir: "kurokos-basketball",
+dir: "black_clover",
 prioritet: 4,
 maxrank: 0
 },
 {
-dir: "ledi-bag-i-kot-nuar",
+dir: "paradition",
 prioritet: 4,
 maxrank: 0
 },
 {
-dir: "valkyria-chronicles",
+dir: "one_punch_man",
 prioritet: 4,
 maxrank: 0
 },
@@ -645,7 +655,7 @@ prioritet: 4,
 maxrank: 0
 },
 {
-dir: "jungle-juice",
+dir: "the-lord-of-the-rings",
 prioritet: 4,
 maxrank: 0
 },
@@ -655,12 +665,22 @@ prioritet: 4,
 maxrank: 0
 },
 {
-dir: "undertale-art-book",
+dir: "kurokos-basketball",
 prioritet: 4,
 maxrank: 0
 },
 {
-dir: "tekken-comic",
+dir: "ledi-bag-i-kot-nuar",
+prioritet: 4,
+maxrank: 0
+},
+{
+dir: "valkyria-chronicles",
+prioritet: 4,
+maxrank: 0
+},
+{
+dir: "jungle-juice",
 prioritet: 4,
 maxrank: 0
 },
@@ -670,67 +690,7 @@ prioritet: 4,
 maxrank: 0
 },
 {
-dir: "project-sekai-colorful-stage",
-prioritet: 4,
-maxrank: 0
-},
-{
-dir: "cyberpunk-2077",
-prioritet: 4,
-maxrank: 0
-},
-{
-dir: "death-note--",
-prioritet: 4,
-maxrank: 0
-},
-{
-dir: "howls-moving-castle-dj--sweet-dreams",
-prioritet: 4,
-maxrank: 0
-},
-{
-dir: "transformery-pervoe-pokolenie",
-prioritet: 4,
-maxrank: 0
-},
-{
-dir: "star-wars-the-mandalorian",
-prioritet: 4,
-maxrank: 0
-},
-{
-dir: "dont-smoke",
-prioritet: 4,
-maxrank: 0
-},
-{
-dir: "isekai-suicide-squa",
-prioritet: 4,
-maxrank: 0
-},
-{
-dir: "the-lord-of-the-rings",
-prioritet: 4,
-maxrank: 0
-},
-{
-dir: "one_punch_man",
-prioritet: 4,
-maxrank: 0
-},
-{
-dir: "paradition",
-prioritet: 4,
-maxrank: 0
-},
-{
-dir: "black_clover",
-prioritet: 4,
-maxrank: 0
-},
-{
-dir: "tokyo_ghoul",
+dir: "tekken-comic",
 prioritet: 4,
 maxrank: 0
 },
@@ -740,27 +700,62 @@ prioritet: 4,
 maxrank: 0
 },
 {
-dir: "jojos_bizarre_adventure_part_4_diamond_is_unbreakable",
+dir: "gokurakugai-sanbandori",
 prioritet: 4,
 maxrank: 0
 },
 {
-dir: "haikyuu",
+dir: "honkai-impact-3rd--st-freya-high",
+prioritet: 4,
+maxrank: 0
+},
+{
+dir: "my-neighbor-totoro",
+prioritet: 4,
+maxrank: 0
+},
+{
+dir: "project-sekai-colorful-stage",
+prioritet: 4,
+maxrank: 0
+},
+{
+dir: "undertale-art-book",
+prioritet: 4,
+maxrank: 0
+},
+{
+dir: "apex-legends-overtime",
+prioritet: 4,
+maxrank: 0
+},
+{
+dir: "overvotch",
+prioritet: 4,
+maxrank: 0
+},
+{
+dir: "solo-leveling",
+prioritet: 4,
+maxrank: 0
+},
+{
+dir: "one_piece",
+prioritet: 4,
+maxrank: 0
+},
+{
+dir: "rosario_to_vampire",
+prioritet: 4,
+maxrank: 0
+},
+{
+dir: "injustice-gods-among-us",
 prioritet: 3,
 maxrank: 0
 },
 {
-dir: "oshi-no-ko",
-prioritet: 3,
-maxrank: 0
-},
-{
-dir: "the-intern-female-divers",
-prioritet: 3,
-maxrank: 0
-},
-{
-dir: "mitas-gift-box",
+dir: "fategrand-order-mortalisstella",
 prioritet: 3,
 maxrank: 0
 },
@@ -770,12 +765,52 @@ prioritet: 3,
 maxrank: 0
 },
 {
-dir: "fatestay-night",
+dir: "ragna-crimson",
 prioritet: 3,
 maxrank: 0
 },
 {
-dir: "hellsing",
+dir: "oshi-no-ko",
+prioritet: 3,
+maxrank: 0
+},
+{
+dir: "otel-hazbin--ohotnik",
+prioritet: 3,
+maxrank: 0
+},
+{
+dir: "amazing-spiderman",
+prioritet: 3,
+maxrank: 0
+},
+{
+dir: "astonishing-xmen-vol-3",
+prioritet: 3,
+maxrank: 0
+},
+{
+dir: "the-dressup-doll-that-fell-in-love",
+prioritet: 3,
+maxrank: 0
+},
+{
+dir: "slave-of-the-magic-capitals-elite-troops",
+prioritet: 3,
+maxrank: 0
+},
+{
+dir: "cowboy-bebop",
+prioritet: 3,
+maxrank: 0
+},
+{
+dir: "dosanko-gyaru-ha-namaramenkoi",
+prioritet: 3,
+maxrank: 0
+},
+{
+dir: "pretty_guardian_sailor_moon",
 prioritet: 3,
 maxrank: 0
 },
@@ -815,67 +850,12 @@ prioritet: 3,
 maxrank: 0
 },
 {
-dir: "possessed-by-academy-yagame",
-prioritet: 3,
-maxrank: 0
-},
-{
 dir: "code_geass_lelouch_of_the_rebellion",
 prioritet: 3,
 maxrank: 0
 },
 {
-dir: "fategrand-order-mortalisstella",
-prioritet: 3,
-maxrank: 0
-},
-{
-dir: "injustice-gods-among-us",
-prioritet: 3,
-maxrank: 0
-},
-{
-dir: "otel-hazbin--ohotnik",
-prioritet: 3,
-maxrank: 0
-},
-{
-dir: "steins_gate",
-prioritet: 3,
-maxrank: 0
-},
-{
-dir: "blazblue",
-prioritet: 3,
-maxrank: 0
-},
-{
-dir: "i-dstiny-villin",
-prioritet: 3,
-maxrank: 0
-},
-{
-dir: "amazing-spiderman",
-prioritet: 3,
-maxrank: 0
-},
-{
-dir: "astonishing-xmen-vol-3",
-prioritet: 3,
-maxrank: 0
-},
-{
-dir: "the-dressup-doll-that-fell-in-love",
-prioritet: 3,
-maxrank: 0
-},
-{
-dir: "made-of-stardust",
-prioritet: 3,
-maxrank: 0
-},
-{
-dir: "slave-of-the-magic-capitals-elite-troops",
+dir: "fatestay-night",
 prioritet: 3,
 maxrank: 0
 },
@@ -885,7 +865,7 @@ prioritet: 3,
 maxrank: 0
 },
 {
-dir: "cowboy-bebop",
+dir: "steins_gate",
 prioritet: 3,
 maxrank: 0
 },
@@ -895,7 +875,27 @@ prioritet: 3,
 maxrank: 0
 },
 {
-dir: "dosanko-gyaru-ha-namaramenkoi",
+dir: "blazblue",
+prioritet: 3,
+maxrank: 0
+},
+{
+dir: "hellsing",
+prioritet: 3,
+maxrank: 0
+},
+{
+dir: "i-dstiny-villin",
+prioritet: 3,
+maxrank: 0
+},
+{
+dir: "haikyuu",
+prioritet: 3,
+maxrank: 0
+},
+{
+dir: "made-of-stardust",
 prioritet: 3,
 maxrank: 0
 },
@@ -915,7 +915,7 @@ prioritet: 3,
 maxrank: 0
 },
 {
-dir: "pretty_guardian_sailor_moon",
+dir: "the-intern-female-divers",
 prioritet: 3,
 maxrank: 0
 },
@@ -930,12 +930,17 @@ prioritet: 3,
 maxrank: 0
 },
 {
-dir: "ragna-crimson",
+dir: "possessed-by-academy-yagame",
 prioritet: 3,
 maxrank: 0
 },
 {
 dir: "ergo-proksi-poputchiki-sentsona-i-mogilschik",
+prioritet: 3,
+maxrank: 0
+},
+{
+dir: "mitas-gift-box",
 prioritet: 3,
 maxrank: 0
 },
