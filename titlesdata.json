@@ -5,6 +5,11 @@
 "maxrank": "0"
 },
 {
+"dir": "overlord",
+"prioritet": "7",
+"maxrank": "0"
+},
+{
 "dir": "master-of-gu",
 "prioritet": "7",
 "maxrank": "0"
@@ -35,11 +40,6 @@
 "maxrank": "0"
 },
 {
-"dir": "overlord",
-"prioritet": "7",
-"maxrank": "0"
-},
-{
 "dir": "stories-of-remanga-events",
 "prioritet": "7",
 "maxrank": "0"
@@ -48,6 +48,11 @@
 "dir": "elden-ring-become-load",
 "prioritet": "7",
 "maxrank": "0"
+},
+{
+"dir": "the-behindthescenes-work-of-the-student-body-president/main",
+"prioritet": "6",
+"maxrank": "rank_f"
 },
 {
 "dir": "bleach",
@@ -145,11 +150,6 @@
 "maxrank": "rank_f"
 },
 {
-"dir": "im-ready-to-kill-the-god-without-any-cheats",
-"prioritet": "6",
-"maxrank": "rank_f"
-},
-{
 "dir": "sengse-pension",
 "prioritet": "6",
 "maxrank": "rank_f"
@@ -160,12 +160,12 @@
 "maxrank": "rank_f"
 },
 {
-"dir": "if-i-see-the-blood-i-will-be-punished-by-the-gods",
+"dir": "doomsday-sword-god-i-shocked-the-world",
 "prioritet": "6",
 "maxrank": "rank_f"
 },
 {
-"dir": "dear-my-living-dead",
+"dir": "im-ready-to-kill-the-god-without-any-cheats",
 "prioritet": "6",
 "maxrank": "rank_f"
 },
@@ -185,12 +185,12 @@
 "maxrank": "0"
 },
 {
-"dir": "nier-automata-yorha-pearl-harbor-descent-mission-record",
+"dir": "if-i-see-the-blood-i-will-be-punished-by-the-gods",
 "prioritet": "6",
-"maxrank": "0"
+"maxrank": "rank_f"
 },
 {
-"dir": "the-behindthescenes-work-of-the-student-body-president/main",
+"dir": "shelter-slaves",
 "prioritet": "6",
 "maxrank": "rank_f"
 },
@@ -205,12 +205,12 @@
 "maxrank": "0"
 },
 {
-"dir": "ice-guy-and-the-cool-female-colleague",
+"dir": "dear-my-living-dead",
 "prioritet": "6",
 "maxrank": "rank_f"
 },
 {
-"dir": "doomsday-sword-god-i-shocked-the-world",
+"dir": "ice-guy-and-the-cool-female-colleague",
 "prioritet": "6",
 "maxrank": "rank_f"
 },
@@ -220,9 +220,9 @@
 "maxrank": "0"
 },
 {
-"dir": "mosin-hunter/chapters?ordering=index",
+"dir": "nier-automata-yorha-pearl-harbor-descent-mission-record",
 "prioritet": "6",
-"maxrank": "rank_f"
+"maxrank": "0"
 },
 {
 "dir": "gwichonri",
@@ -240,7 +240,7 @@
 "maxrank": "rank_f"
 },
 {
-"dir": "demon-lord-hates-reverse-harem",
+"dir": "mosin-hunter/chapters?ordering=index",
 "prioritet": "6",
 "maxrank": "rank_f"
 },
@@ -285,17 +285,12 @@
 "maxrank": "0"
 },
 {
-"dir": "shelter-slaves",
-"prioritet": "6",
-"maxrank": "rank_f"
-},
-{
 "dir": "naruto",
 "prioritet": "5",
 "maxrank": "0"
 },
 {
-"dir": "aisha",
+"dir": "hunter_x_hunter",
 "prioritet": "5",
 "maxrank": "0"
 },
@@ -355,7 +350,7 @@
 "maxrank": "0"
 },
 {
-"dir": "azur-lane-start-building",
+"dir": "aisha",
 "prioritet": "5",
 "maxrank": "0"
 },
@@ -421,6 +416,11 @@
 },
 {
 "dir": "goddess-of-victory-nikke-official-fourpanel-comics",
+"prioritet": "5",
+"maxrank": "0"
+},
+{
+"dir": "azur-lane-start-building",
 "prioritet": "5",
 "maxrank": "0"
 },
@@ -521,11 +521,6 @@
 },
 {
 "dir": "one_piece",
-"prioritet": "5",
-"maxrank": "0"
-},
-{
-"dir": "hunter_x_hunter",
 "prioritet": "5",
 "maxrank": "0"
 },
@@ -735,14 +730,19 @@
 "maxrank": "rank_e"
 },
 {
-"dir": "she-became-the-daughterinlaw-of-the-black-film-because-she-was-a-shihanboo",
+"dir": "guilty-gear",
 "prioritet": "4",
-"maxrank": "rank_e"
+"maxrank": "0"
 },
 {
 "dir": "kurokos-basketball",
 "prioritet": "4",
 "maxrank": "0"
+},
+{
+"dir": "she-became-the-daughterinlaw-of-the-black-film-because-she-was-a-shihanboo",
+"prioritet": "4",
+"maxrank": "rank_e"
 },
 {
 "dir": "girl-by-day-boy-by-night",
@@ -770,11 +770,6 @@
 "maxrank": "rank_e"
 },
 {
-"dir": "monster",
-"prioritet": "4",
-"maxrank": "0"
-},
-{
 "dir": "dandadan",
 "prioritet": "4",
 "maxrank": "0"
@@ -795,9 +790,9 @@
 "maxrank": "0"
 },
 {
-"dir": "the-laws-of-cultivation",
+"dir": "monster",
 "prioritet": "4",
-"maxrank": "rank_e"
+"maxrank": "0"
 },
 {
 "dir": "dungeon-meshi",
@@ -808,6 +803,11 @@
 "dir": "ledi-bag-i-kot-nuar",
 "prioritet": "4",
 "maxrank": "0"
+},
+{
+"dir": "the-laws-of-cultivation",
+"prioritet": "4",
+"maxrank": "rank_e"
 },
 {
 "dir": "golden-boy--",
@@ -825,12 +825,12 @@
 "maxrank": "0"
 },
 {
-"dir": "tekken-comic",
+"dir": "8kaijuu",
 "prioritet": "4",
 "maxrank": "0"
 },
 {
-"dir": "8kaijuu",
+"dir": "tekken-comic",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -841,11 +841,6 @@
 },
 {
 "dir": "dorohedoro",
-"prioritet": "4",
-"maxrank": "0"
-},
-{
-"dir": "cyberpunk-2077",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -880,7 +875,7 @@
 "maxrank": "0"
 },
 {
-"dir": "death-note--",
+"dir": "cyberpunk-2077",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -900,7 +895,7 @@
 "maxrank": "0"
 },
 {
-"dir": "guilty-gear",
+"dir": "death-note--",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -990,11 +985,6 @@
 "maxrank": "0"
 },
 {
-"dir": "mitas-gift-box",
-"prioritet": "3",
-"maxrank": "0"
-},
-{
 "dir": "pretty_guardian_sailor_moon",
 "prioritet": "3",
 "maxrank": "0"
@@ -1025,7 +1015,7 @@
 "maxrank": "0"
 },
 {
-"dir": "king-of-all-phases",
+"dir": "mitas-gift-box",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1061,6 +1051,11 @@
 },
 {
 "dir": "villain-to-kill",
+"prioritet": "3",
+"maxrank": "0"
+},
+{
+"dir": "king-of-all-phases",
 "prioritet": "3",
 "maxrank": "0"
 },
