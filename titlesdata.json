@@ -505,6 +505,11 @@
 "maxrank": "0"
 },
 {
+"dir": "beautiful-new-world",
+"prioritet": "5",
+"maxrank": "0"
+},
+{
 "dir": "jegalse-will-bring-in-a-soninlaw-with-a-bowl-of-jjajang",
 "prioritet": "5",
 "maxrank": "rank_e"
@@ -523,11 +528,6 @@
 "dir": "the-super-doctor-from-2089",
 "prioritet": "5",
 "maxrank": "rank_f"
-},
-{
-"dir": "beautiful-new-world",
-"prioritet": "5",
-"maxrank": "0"
 },
 {
 "dir": "rwby-the-official-manga",
@@ -735,6 +735,11 @@
 "maxrank": "0"
 },
 {
+"dir": "paradition",
+"prioritet": "4",
+"maxrank": "0"
+},
+{
 "dir": "witchblade-takeru",
 "prioritet": "4",
 "maxrank": "rank_d"
@@ -830,7 +835,7 @@
 "maxrank": "rank_e"
 },
 {
-"dir": "paradition",
+"dir": "black_clover",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -850,12 +855,12 @@
 "maxrank": "0"
 },
 {
-"dir": "black_clover",
+"dir": "tokyo_ghoul",
 "prioritet": "4",
 "maxrank": "0"
 },
 {
-"dir": "tokyo_ghoul",
+"dir": "jojos_bizarre_adventure_part_4_diamond_is_unbreakable",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -870,12 +875,12 @@
 "maxrank": "0"
 },
 {
-"dir": "jojos_bizarre_adventure_part_4_diamond_is_unbreakable",
+"dir": "lookism",
 "prioritet": "4",
 "maxrank": "0"
 },
 {
-"dir": "lookism",
+"dir": "i-have-an-apocalyptic-dungeon",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -962,16 +967,6 @@
 {
 "dir": "there-are-no-bad-warriors-in-the-world",
 "prioritet": "4",
-"maxrank": "0"
-},
-{
-"dir": "dosanko-gyaru-ha-namaramenkoi",
-"prioritet": "3",
-"maxrank": "0"
-},
-{
-"dir": "pretty_guardian_sailor_moon",
-"prioritet": "3",
 "maxrank": "0"
 },
 {
@@ -1080,12 +1075,12 @@
 "maxrank": "0"
 },
 {
-"dir": "seraph_of_the_end",
+"dir": "villain-to-kill",
 "prioritet": "3",
 "maxrank": "0"
 },
 {
-"dir": "villain-to-kill",
+"dir": "seraph_of_the_end",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1110,12 +1105,12 @@
 "maxrank": "0"
 },
 {
-"dir": "white-blood",
+"dir": "dr_stone",
 "prioritet": "3",
 "maxrank": "0"
 },
 {
-"dir": "dr_stone",
+"dir": "white-blood",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1130,12 +1125,17 @@
 "maxrank": "0"
 },
 {
+"dir": "the-intern-female-divers",
+"prioritet": "3",
+"maxrank": "0"
+},
+{
 "dir": "eat-mom-firsts",
 "prioritet": "3",
 "maxrank": "0"
 },
 {
-"dir": "the-intern-female-divers",
+"dir": "fatestay-night",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1145,7 +1145,7 @@
 "maxrank": "0"
 },
 {
-"dir": "fatestay-night",
+"dir": "hellsing",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1170,11 +1170,6 @@
 "maxrank": "0"
 },
 {
-"dir": "hellsing",
-"prioritet": "3",
-"maxrank": "0"
-},
-{
 "dir": "oshi-no-ko",
 "prioritet": "3",
 "maxrank": "0"
@@ -1190,6 +1185,11 @@
 "maxrank": "0"
 },
 {
+"dir": "sverhestestvennoe",
+"prioritet": "3",
+"maxrank": "0"
+},
+{
 "dir": "priest-of-decay",
 "prioritet": "3",
 "maxrank": "0"
@@ -1200,22 +1200,17 @@
 "maxrank": "0"
 },
 {
-"dir": "sverhestestvennoe",
-"prioritet": "3",
-"maxrank": "0"
-},
-{
 "dir": "amazing-spiderman",
 "prioritet": "3",
 "maxrank": "0"
 },
 {
-"dir": "legend-of-mahjong-akagi",
+"dir": "Последний экзорцист",
 "prioritet": "3",
 "maxrank": "0"
 },
 {
-"dir": "Последний экзорцист",
+"dir": "legend-of-mahjong-akagi",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1245,6 +1240,11 @@
 "maxrank": "0"
 },
 {
+"dir": "dosanko-gyaru-ha-namaramenkoi",
+"prioritet": "3",
+"maxrank": "0"
+},
+{
 "dir": "dgrayman",
 "prioritet": "3",
 "maxrank": "0"
@@ -1255,7 +1255,7 @@
 "maxrank": "0"
 },
 {
-"dir": "death-is-the-only-ending-for-the-villainess",
+"dir": "pretty_guardian_sailor_moon",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1266,6 +1266,11 @@
 },
 {
 "dir": "fclass-saju-hunter",
+"prioritet": "3",
+"maxrank": "0"
+},
+{
+"dir": "death-is-the-only-ending-for-the-villainess",
 "prioritet": "3",
 "maxrank": "0"
 }
