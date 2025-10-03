@@ -50,17 +50,17 @@
 "maxrank": "0"
 },
 {
-"dir": "chainsaw-man",
-"prioritet": "6",
-"maxrank": "0"
-},
-{
-"dir": "the-witcher-fading-memories",
+"dir": "avatar__the_last_airbender",
 "prioritet": "6",
 "maxrank": "0"
 },
 {
 "dir": "wuthering-waves",
+"prioritet": "6",
+"maxrank": "0"
+},
+{
+"dir": "chainsaw-man",
 "prioritet": "6",
 "maxrank": "0"
 },
@@ -81,11 +81,6 @@
 },
 {
 "dir": "omniscient-reader",
-"prioritet": "6",
-"maxrank": "0"
-},
-{
-"dir": "avatar__the_last_airbender",
 "prioritet": "6",
 "maxrank": "0"
 },
@@ -111,6 +106,11 @@
 },
 {
 "dir": "kingdom_of_gems",
+"prioritet": "6",
+"maxrank": "0"
+},
+{
+"dir": "the-witcher-fading-memories",
 "prioritet": "6",
 "maxrank": "0"
 },
@@ -160,7 +160,7 @@
 "maxrank": "0"
 },
 {
-"dir": "slave-emperor",
+"dir": "emperor-wang-xin",
 "prioritet": "5",
 "maxrank": "rank_f"
 },
@@ -300,14 +300,14 @@
 "maxrank": "0"
 },
 {
-"dir": "martial-arts-reigns",
-"prioritet": "5",
-"maxrank": "rank_f"
-},
-{
 "dir": "dark-souls--slave-knight-gael",
 "prioritet": "5",
 "maxrank": "0"
+},
+{
+"dir": "helck",
+"prioritet": "5",
+"maxrank": "rank_f"
 },
 {
 "dir": "princess-mononoke",
@@ -325,7 +325,7 @@
 "maxrank": "0"
 },
 {
-"dir": "shinmas-line",
+"dir": "gwichonri",
 "prioritet": "5",
 "maxrank": "rank_f"
 },
@@ -340,14 +340,19 @@
 "maxrank": "0"
 },
 {
+"dir": "project-sekai-colorful-stage",
+"prioritet": "5",
+"maxrank": "0"
+},
+{
 "dir": "one_punch_man",
 "prioritet": "5",
 "maxrank": "0"
 },
 {
-"dir": "project-sekai-colorful-stage",
+"dir": "slave-emperor",
 "prioritet": "5",
-"maxrank": "0"
+"maxrank": "rank_f"
 },
 {
 "dir": "reincarnated_as_a_dragons_egg_lets_aim_to_be_the_strongest",
@@ -380,12 +385,12 @@
 "maxrank": "rank_f"
 },
 {
-"dir": "cube-in-samurai",
+"dir": "doomsday-sword-god-i-shocked-the-world",
 "prioritet": "5",
 "maxrank": "rank_f"
 },
 {
-"dir": "doomsday-sword-god-i-shocked-the-world",
+"dir": "cube-in-samurai",
 "prioritet": "5",
 "maxrank": "rank_f"
 },
@@ -400,12 +405,12 @@
 "maxrank": "rank_f"
 },
 {
-"dir": "i-am-invincible-in-the-postapocalyptic-fantasy-world/main",
+"dir": "dear-my-living-dead",
 "prioritet": "5",
 "maxrank": "rank_f"
 },
 {
-"dir": "dear-my-living-dead",
+"dir": "i-am-invincible-in-the-postapocalyptic-fantasy-world/main",
 "prioritet": "5",
 "maxrank": "rank_f"
 },
@@ -415,22 +420,17 @@
 "maxrank": "rank_f"
 },
 {
-"dir": "magan-no-akuyaku-ni-tensei-shita-no-de-oshi-chara-o-mimamoru-mob-o-mezashimasu",
+"dir": "shinmas-line",
 "prioritet": "5",
 "maxrank": "rank_f"
 },
 {
-"dir": "high-school-dxd",
+"dir": "sengse-pension",
 "prioritet": "5",
-"maxrank": "0"
+"maxrank": "rank_f"
 },
 {
 "dir": "karate-survivor-in-another-world",
-"prioritet": "5",
-"maxrank": "rank_f"
-},
-{
-"dir": "chef-kang-from-another-world",
 "prioritet": "5",
 "maxrank": "rank_f"
 },
@@ -445,12 +445,12 @@
 "maxrank": "0"
 },
 {
-"dir": "volcano-sect-genius-swordsman",
+"dir": "high-school-dxd",
 "prioritet": "5",
-"maxrank": "rank_f"
+"maxrank": "0"
 },
 {
-"dir": "gwichonri",
+"dir": "chef-kang-from-another-world",
 "prioritet": "5",
 "maxrank": "rank_f"
 },
@@ -460,12 +460,12 @@
 "maxrank": "0"
 },
 {
-"dir": "emperor-wang-xin",
+"dir": "volcano-sect-genius-swordsman",
 "prioritet": "5",
 "maxrank": "rank_f"
 },
 {
-"dir": "helck",
+"dir": "martial-arts-reigns",
 "prioritet": "5",
 "maxrank": "rank_f"
 },
@@ -490,7 +490,7 @@
 "maxrank": "rank_f"
 },
 {
-"dir": "sengse-pension",
+"dir": "magan-no-akuyaku-ni-tensei-shita-no-de-oshi-chara-o-mimamoru-mob-o-mezashimasu",
 "prioritet": "5",
 "maxrank": "rank_f"
 },
@@ -565,6 +565,11 @@
 "maxrank": "0"
 },
 {
+"dir": "mortal-kombat--",
+"prioritet": "4",
+"maxrank": "0"
+},
+{
 "dir": "my-neighbor-totoro",
 "prioritet": "4",
 "maxrank": "0"
@@ -635,11 +640,6 @@
 "maxrank": "rank_e"
 },
 {
-"dir": "howls-moving-castle-dj--sweet-dreams",
-"prioritet": "4",
-"maxrank": "0"
-},
-{
 "dir": "reverse-1999",
 "prioritet": "4",
 "maxrank": "0"
@@ -655,7 +655,7 @@
 "maxrank": "0"
 },
 {
-"dir": "transformery-pervoe-pokolenie",
+"dir": "howls-moving-castle-dj--sweet-dreams",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -670,7 +670,7 @@
 "maxrank": "0"
 },
 {
-"dir": "star-wars-the-mandalorian",
+"dir": "transformery-pervoe-pokolenie",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -681,6 +681,11 @@
 },
 {
 "dir": "undertale-art-book",
+"prioritet": "4",
+"maxrank": "0"
+},
+{
+"dir": "star-wars-the-mandalorian",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -700,11 +705,6 @@
 "maxrank": "0"
 },
 {
-"dir": "the-lord-of-the-rings",
-"prioritet": "4",
-"maxrank": "0"
-},
-{
 "dir": "the-pick-me-up",
 "prioritet": "4",
 "maxrank": "0"
@@ -720,7 +720,7 @@
 "maxrank": "0"
 },
 {
-"dir": "paradition",
+"dir": "the-lord-of-the-rings",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -830,7 +830,7 @@
 "maxrank": "rank_e"
 },
 {
-"dir": "black_clover",
+"dir": "paradition",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -850,12 +850,12 @@
 "maxrank": "0"
 },
 {
-"dir": "tokyo_ghoul",
+"dir": "black_clover",
 "prioritet": "4",
 "maxrank": "0"
 },
 {
-"dir": "jojos_bizarre_adventure_part_4_diamond_is_unbreakable",
+"dir": "tokyo_ghoul",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -870,12 +870,12 @@
 "maxrank": "0"
 },
 {
-"dir": "lookism",
+"dir": "jojos_bizarre_adventure_part_4_diamond_is_unbreakable",
 "prioritet": "4",
 "maxrank": "0"
 },
 {
-"dir": "gantz",
+"dir": "lookism",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -885,12 +885,12 @@
 "maxrank": "0"
 },
 {
-"dir": "survive-as-a-barbarian-ingame",
+"dir": "gantz",
 "prioritet": "4",
 "maxrank": "0"
 },
 {
-"dir": "solo-leveling",
+"dir": "survive-as-a-barbarian-ingame",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -915,7 +915,7 @@
 "maxrank": "rank_e"
 },
 {
-"dir": "overvotch",
+"dir": "solo-leveling",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -925,7 +925,7 @@
 "maxrank": "rank_d"
 },
 {
-"dir": "honkai-impact-3rd--st-freya-high",
+"dir": "overvotch",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -935,7 +935,7 @@
 "maxrank": "0"
 },
 {
-"dir": "apex-legends-overtime",
+"dir": "honkai-impact-3rd--st-freya-high",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -945,7 +945,7 @@
 "maxrank": "0"
 },
 {
-"dir": "genshin-impact--",
+"dir": "apex-legends-overtime",
 "prioritet": "4",
 "maxrank": "0"
 },
@@ -955,13 +955,28 @@
 "maxrank": "0"
 },
 {
-"dir": "mortal-kombat--",
+"dir": "genshin-impact--",
 "prioritet": "4",
 "maxrank": "0"
 },
 {
 "dir": "there-are-no-bad-warriors-in-the-world",
 "prioritet": "4",
+"maxrank": "0"
+},
+{
+"dir": "dosanko-gyaru-ha-namaramenkoi",
+"prioritet": "3",
+"maxrank": "0"
+},
+{
+"dir": "pretty_guardian_sailor_moon",
+"prioritet": "3",
+"maxrank": "0"
+},
+{
+"dir": "i-monopolized-the-youngest-princesss-favor-and-now-everyone-is-obsessed-with-me",
+"prioritet": "3",
 "maxrank": "0"
 },
 {
@@ -1030,11 +1045,6 @@
 "maxrank": "0"
 },
 {
-"dir": "the-lich-who-became-a-paladin",
-"prioritet": "3",
-"maxrank": "0"
-},
-{
 "dir": "possessed-by-academy-yagame",
 "prioritet": "3",
 "maxrank": "0"
@@ -1060,7 +1070,7 @@
 "maxrank": "0"
 },
 {
-"dir": "made-of-stardust",
+"dir": "the-lich-who-became-a-paladin",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1070,17 +1080,17 @@
 "maxrank": "0"
 },
 {
-"dir": "villain-to-kill",
-"prioritet": "3",
-"maxrank": "0"
-},
-{
 "dir": "seraph_of_the_end",
 "prioritet": "3",
 "maxrank": "0"
 },
 {
-"dir": "blazblue",
+"dir": "villain-to-kill",
+"prioritet": "3",
+"maxrank": "0"
+},
+{
+"dir": "made-of-stardust",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1090,17 +1100,12 @@
 "maxrank": "0"
 },
 {
+"dir": "blazblue",
+"prioritet": "3",
+"maxrank": "0"
+},
+{
 "dir": "steins_gate",
-"prioritet": "3",
-"maxrank": "0"
-},
-{
-"dir": "the-intern-female-divers",
-"prioritet": "3",
-"maxrank": "0"
-},
-{
-"dir": "dr_stone",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1110,17 +1115,17 @@
 "maxrank": "0"
 },
 {
+"dir": "dr_stone",
+"prioritet": "3",
+"maxrank": "0"
+},
+{
 "dir": "no-guns-life",
 "prioritet": "3",
 "maxrank": "0"
 },
 {
-"dir": "fatestay-night",
-"prioritet": "3",
-"maxrank": "0"
-},
-{
-"dir": "hellsing",
+"dir": "the-mafia-nanny",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1130,7 +1135,7 @@
 "maxrank": "0"
 },
 {
-"dir": "oshi-no-ko",
+"dir": "the-intern-female-divers",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1140,7 +1145,7 @@
 "maxrank": "0"
 },
 {
-"dir": "otel-hazbin--ohotnik",
+"dir": "fatestay-night",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1165,22 +1170,22 @@
 "maxrank": "0"
 },
 {
-"dir": "amazing-spiderman",
+"dir": "hellsing",
 "prioritet": "3",
 "maxrank": "0"
 },
 {
-"dir": "astonishing-xmen-vol-3",
+"dir": "oshi-no-ko",
+"prioritet": "3",
+"maxrank": "0"
+},
+{
+"dir": "otel-hazbin--ohotnik",
 "prioritet": "3",
 "maxrank": "0"
 },
 {
 "dir": "akame_ga_kill",
-"prioritet": "3",
-"maxrank": "0"
-},
-{
-"dir": "sverhestestvennoe",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1195,12 +1200,12 @@
 "maxrank": "0"
 },
 {
-"dir": "slave-of-the-magic-capitals-elite-troops",
+"dir": "sverhestestvennoe",
 "prioritet": "3",
 "maxrank": "0"
 },
 {
-"dir": "Последний экзорцист",
+"dir": "amazing-spiderman",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1210,7 +1215,12 @@
 "maxrank": "0"
 },
 {
-"dir": "cowboy-bebop",
+"dir": "Последний экзорцист",
+"prioritet": "3",
+"maxrank": "0"
+},
+{
+"dir": "astonishing-xmen-vol-3",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1225,17 +1235,12 @@
 "maxrank": "0"
 },
 {
-"dir": "dosanko-gyaru-ha-namaramenkoi",
+"dir": "slave-of-the-magic-capitals-elite-troops",
 "prioritet": "3",
 "maxrank": "0"
 },
 {
-"dir": "pretty_guardian_sailor_moon",
-"prioritet": "3",
-"maxrank": "0"
-},
-{
-"dir": "death-is-the-only-ending-for-the-villainess",
+"dir": "cowboy-bebop",
 "prioritet": "3",
 "maxrank": "0"
 },
@@ -1250,7 +1255,7 @@
 "maxrank": "0"
 },
 {
-"dir": "i-monopolized-the-youngest-princesss-favor-and-now-everyone-is-obsessed-with-me",
+"dir": "death-is-the-only-ending-for-the-villainess",
 "prioritet": "3",
 "maxrank": "0"
 },
