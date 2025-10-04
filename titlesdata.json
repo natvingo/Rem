@@ -3,8 +3,9 @@
 "dir": "my_hero_academia",
 "prioritet": "5",
 "GradeRank": "0",
-"MinRank": 2,
-"MaxRank": 4
+"MinRank": "2",
+"MaxRank": "4"
 }
 ]
+
 
