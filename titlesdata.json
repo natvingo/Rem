@@ -7,27 +7,6 @@
 "MaxRank": "0"
 },
 {
-"dir": "dungeons--dragons-legends-of-baldurs-gate",
-"prioritet": "7",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "chainsaw-man",
-"prioritet": "7",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "ghost-rider",
-"prioritet": "7",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
 "dir": "blade_of_demon_destruction",
 "prioritet": "7",
 "GradeRank": "0",
@@ -63,14 +42,14 @@
 "MaxRank": "0"
 },
 {
-"dir": "vampire-hunter-d",
+"dir": "dungeons--dragons-legends-of-baldurs-gate",
 "prioritet": "7",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "stories-of-remanga-events",
+"dir": "ghost-rider",
 "prioritet": "7",
 "GradeRank": "0",
 "MinRank": "0",
@@ -84,6 +63,13 @@
 "MaxRank": "0"
 },
 {
+"dir": "vampire-hunter-d",
+"prioritet": "7",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
 "dir": "nier-automata-yorha-pearl-harbor-descent-mission-record",
 "prioritet": "7",
 "GradeRank": "0",
@@ -91,7 +77,98 @@
 "MaxRank": "0"
 },
 {
+"dir": "chainsaw-man",
+"prioritet": "7",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "omniscient-reader",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "7-s7venth-s7ptime",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "4"
+},
+{
+"dir": "eirrizos-dead-by-daylight-collection",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "stories-of-remanga-events",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "mushoku_tensei_if_i_get_to_a_parallel_universe_ill_bring",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "lord-of-the-mysteries",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "azur-lane-start-building",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "liliths-cord",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "the-witcher-fading-memories",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "wuthering-waves",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "love-and-deepspace",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
 "dir": "fategrand-orderturas-realta",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "kingdom_of_gems",
 "prioritet": "6",
 "GradeRank": "0",
 "MinRank": "0",
@@ -119,71 +196,99 @@
 "MaxRank": "0"
 },
 {
-"dir": "omniscient-reader",
-"prioritet": "6",
+"dir": "i-broke-off-my-engagement-with-the-state",
+"prioritet": "5",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "naruto",
+"prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "kingdom_of_gems",
-"prioritet": "6",
+"dir": "volcano-sect-genius-swordsman",
+"prioritet": "5",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "shinmas-line",
+"prioritet": "5",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "gwichonri",
+"prioritet": "5",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "chef-kang-from-another-world",
+"prioritet": "5",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "karate-survivor-in-another-world",
+"prioritet": "5",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "sengse-pension",
+"prioritet": "5",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "magan-no-akuyaku-ni-tensei-shita-no-de-oshi-chara-o-mimamoru-mob-o-mezashimasu",
+"prioritet": "5",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "evolution-frnzy",
+"prioritet": "5",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "i-am-invincible-in-the-postapocalyptic-fantasy-world/main",
+"prioritet": "5",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "one_punch_man",
+"prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "lord-of-the-mysteries",
-"prioritet": "6",
-"GradeRank": "0",
+"dir": "the-demon-king-who-lost-his-job",
+"prioritet": "5",
+"GradeRank": "1",
 "MinRank": "0",
-"MaxRank": "0"
+"MaxRank": "1"
 },
 {
-"dir": "the-witcher-fading-memories",
-"prioritet": "6",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "azur-lane-start-building",
-"prioritet": "6",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "love-and-deepspace",
-"prioritet": "6",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "wuthering-waves",
-"prioritet": "6",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "mobile-legends-bang-bang-comics-edition",
-"prioritet": "6",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "7-s7venth-s7ptime",
-"prioritet": "6",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "4"
-},
-{
-"dir": "liliths-cord",
-"prioritet": "6",
+"dir": "black_clover",
+"prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
@@ -203,25 +308,11 @@
 "MaxRank": "1"
 },
 {
-"dir": "one_punch_man",
-"prioritet": "5",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
 "dir": "i-got-a-cheat-ability-in-a-different-world-and-became-extraordinary-even-in-the-real-world",
 "prioritet": "5",
 "GradeRank": "1",
 "MinRank": "0",
 "MaxRank": "1"
-},
-{
-"dir": "black_clover",
-"prioritet": "5",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
 },
 {
 "dir": "im-ready-to-kill-the-god-without-any-cheats",
@@ -231,7 +322,21 @@
 "MaxRank": "1"
 },
 {
+"dir": "rosario_to_vampire",
+"prioritet": "5",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
 "dir": "so_pure_so_flirtatious",
+"prioritet": "5",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "powerful-system-of-involution",
 "prioritet": "5",
 "GradeRank": "1",
 "MinRank": "0",
@@ -252,13 +357,6 @@
 "MaxRank": "1"
 },
 {
-"dir": "rosario_to_vampire",
-"prioritet": "5",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
 "dir": "slave-emperor",
 "prioritet": "5",
 "GradeRank": "1",
@@ -267,34 +365,6 @@
 },
 {
 "dir": "emperor-wang-xin",
-"prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
-},
-{
-"dir": "martial-arts-reigns",
-"prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
-},
-{
-"dir": "helck",
-"prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
-},
-{
-"dir": "genius-mushroom-trainer",
-"prioritet": "5",
-"GradeRank": "4",
-"MinRank": "3",
-"MaxRank": "4"
-},
-{
-"dir": "shelter-slaves",
 "prioritet": "5",
 "GradeRank": "1",
 "MinRank": "0",
@@ -322,11 +392,11 @@
 "MaxRank": "0"
 },
 {
-"dir": "a-party-cure",
+"dir": "martial-arts-reigns",
 "prioritet": "5",
-"GradeRank": "4",
-"MinRank": "3",
-"MaxRank": "4"
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
 },
 {
 "dir": "princess-mononoke",
@@ -364,11 +434,11 @@
 "MaxRank": "0"
 },
 {
-"dir": "the-eminence-in-shadow",
+"dir": "helck",
 "prioritet": "5",
-"GradeRank": "0",
+"GradeRank": "1",
 "MinRank": "0",
-"MaxRank": "0"
+"MaxRank": "1"
 },
 {
 "dir": "street-fighter",
@@ -413,11 +483,11 @@
 "MaxRank": "0"
 },
 {
-"dir": "8kaijuu",
+"dir": "after-being-executed-with-the-words-necromancers-are-disgusting-i-will-start-my-new-life-as-a-demon",
 "prioritet": "5",
-"GradeRank": "0",
+"GradeRank": "1",
 "MinRank": "0",
-"MaxRank": "0"
+"MaxRank": "1"
 },
 {
 "dir": "zenless-zone-zero",
@@ -434,7 +504,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "regarding_reincarnated_to_slime",
+"dir": "visual--story-file--artbook-berserk",
 "prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
@@ -455,14 +525,14 @@
 "MaxRank": "4"
 },
 {
-"dir": "literary_stray_dogs",
+"dir": "queen-bee",
 "prioritet": "5",
-"GradeRank": "0",
+"GradeRank": "1",
 "MinRank": "0",
-"MaxRank": "0"
+"MaxRank": "1"
 },
 {
-"dir": "eirrizos-dead-by-daylight-collection",
+"dir": "the-eminence-in-shadow",
 "prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
@@ -483,11 +553,25 @@
 "MaxRank": "0"
 },
 {
-"dir": "powerful-system-of-involution",
+"dir": "i-regressed-but-the-world-didnt-end",
 "prioritet": "5",
-"GradeRank": "1",
+"GradeRank": "0",
 "MinRank": "0",
-"MaxRank": "1"
+"MaxRank": "0"
+},
+{
+"dir": "her-marriage-was-called-off-at-daytime-the-cutely-fierce-commander-asked-her-for-a-hug-at-night",
+"prioritet": "5",
+"GradeRank": "4",
+"MinRank": "3",
+"MaxRank": "4"
+},
+{
+"dir": "noblesse",
+"prioritet": "5",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
 },
 {
 "dir": "god-maker",
@@ -504,32 +588,11 @@
 "MaxRank": "4"
 },
 {
-"dir": "tower_of_god",
-"prioritet": "5",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
 "dir": "bayonetta-bloody-fate",
 "prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
-},
-{
-"dir": "flash-marriage-deep-love",
-"prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
-},
-{
-"dir": "i-broke-off-my-engagement-with-the-state",
-"prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
 },
 {
 "dir": "surviving-as-a-fish",
@@ -539,67 +602,67 @@
 "MaxRank": "4"
 },
 {
-"dir": "naruto",
+"dir": "tower_of_god",
 "prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "noblesse",
-"prioritet": "5",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "her-marriage-was-called-off-at-daytime-the-cutely-fierce-commander-asked-her-for-a-hug-at-night",
+"dir": "high-class",
 "prioritet": "5",
 "GradeRank": "4",
 "MinRank": "3",
 "MaxRank": "4"
 },
 {
-"dir": "if-i-fail-to-debut-ill-get-a-killer-disease",
+"dir": "there-is-a-snake-in-the-empresss-bedroom",
 "prioritet": "5",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
+"GradeRank": "4",
+"MinRank": "3",
+"MaxRank": "4"
 },
 {
-"dir": "i-regressed-but-the-world-didnt-end",
+"dir": "the-beginning-of-the-live-broadcast-hell-who-dares-to-go-to-this-live-broadcast-room",
 "prioritet": "5",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
+"GradeRank": "4",
+"MinRank": "3",
+"MaxRank": "4"
 },
 {
-"dir": "queen-bee",
+"dir": "immutable-law",
 "prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
+"GradeRank": "4",
+"MinRank": "3",
+"MaxRank": "4"
 },
 {
-"dir": "after-being-executed-with-the-words-necromancers-are-disgusting-i-will-start-my-new-life-as-a-demon",
+"dir": "edge_of_tomorrow",
 "prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
+"GradeRank": "4",
+"MinRank": "3",
+"MaxRank": "4"
 },
 {
-"dir": "brutus-and-pixie",
+"dir": "how-to-kill-a-go",
 "prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
+"GradeRank": "4",
+"MinRank": "3",
+"MaxRank": "4"
 },
 {
-"dir": "inland-sea-bride",
+"dir": "the-surviving-the-apocalypse-i-was-reborn-as-a-cockroach",
 "prioritet": "5",
-"GradeRank": "3",
-"MinRank": "2",
-"MaxRank": "3"
+"GradeRank": "4",
+"MinRank": "3",
+"MaxRank": "4"
+},
+{
+"dir": "how-to-tame-a-monster-duke",
+"prioritet": "5",
+"GradeRank": "4",
+"MinRank": "3",
+"MaxRank": "4"
 },
 {
 "dir": "hunter_x_hunter",
@@ -616,14 +679,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "chef-kang-from-another-world",
-"prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
-},
-{
-"dir": "my-master-only-breaks-through-at-the-end-of-every-day",
+"dir": "princess-ai-monogatari",
 "prioritet": "5",
 "GradeRank": "4",
 "MinRank": "3",
@@ -637,25 +693,11 @@
 "MaxRank": "0"
 },
 {
-"dir": "karate-survivor-in-another-world",
-"prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
-},
-{
-"dir": "visual--story-file--artbook-berserk",
+"dir": "regarding_reincarnated_to_slime",
 "prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
-},
-{
-"dir": "sengse-pension",
-"prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
 },
 {
 "dir": "dark-souls--slave-knight-gael",
@@ -679,32 +721,32 @@
 "MaxRank": "0"
 },
 {
-"dir": "dont-underestimate-a-big-carrot",
+"dir": "genius-mushroom-trainer",
 "prioritet": "5",
 "GradeRank": "4",
 "MinRank": "3",
 "MaxRank": "4"
 },
 {
-"dir": "high-class",
-"prioritet": "5",
-"GradeRank": "4",
-"MinRank": "3",
-"MaxRank": "4"
-},
-{
-"dir": "there-is-a-snake-in-the-empresss-bedroom",
-"prioritet": "5",
-"GradeRank": "4",
-"MinRank": "3",
-"MaxRank": "4"
-},
-{
-"dir": "dark-gathering",
+"dir": "8kaijuu",
 "prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
+},
+{
+"dir": "if-i-fail-to-debut-ill-get-a-killer-disease",
+"prioritet": "5",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "a-party-cure",
+"prioritet": "5",
+"GradeRank": "4",
+"MinRank": "3",
+"MaxRank": "4"
 },
 {
 "dir": "high-school-dxd",
@@ -714,25 +756,25 @@
 "MaxRank": "0"
 },
 {
-"dir": "rwby-the-official-manga",
+"dir": "shelter-slaves",
+"prioritet": "5",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "flash-marriage-deep-love",
+"prioritet": "5",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "literary_stray_dogs",
 "prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
-},
-{
-"dir": "beautiful-new-world",
-"prioritet": "5",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "the-beginning-of-the-live-broadcast-hell-who-dares-to-go-to-this-live-broadcast-room",
-"prioritet": "5",
-"GradeRank": "4",
-"MinRank": "3",
-"MaxRank": "4"
 },
 {
 "dir": "he-idolmster-shiny-colors--coherent-light",
@@ -742,11 +784,11 @@
 "MaxRank": "0"
 },
 {
-"dir": "magan-no-akuyaku-ni-tensei-shita-no-de-oshi-chara-o-mimamoru-mob-o-mezashimasu",
+"dir": "mobile-legends-bang-bang-comics-edition",
 "prioritet": "5",
-"GradeRank": "1",
+"GradeRank": "0",
 "MinRank": "0",
-"MaxRank": "1"
+"MaxRank": "0"
 },
 {
 "dir": "castlevania-curse-of-darkness",
@@ -756,25 +798,25 @@
 "MaxRank": "0"
 },
 {
-"dir": "immutable-law",
+"dir": "the-pick-me-up",
 "prioritet": "5",
-"GradeRank": "4",
-"MinRank": "3",
-"MaxRank": "4"
-},
-{
-"dir": "evolution-frnzy",
-"prioritet": "5",
-"GradeRank": "1",
+"GradeRank": "0",
 "MinRank": "0",
-"MaxRank": "1"
+"MaxRank": "0"
 },
 {
-"dir": "edge_of_tomorrow",
+"dir": "legend-of-sura-poison-dragon",
 "prioritet": "5",
-"GradeRank": "4",
-"MinRank": "3",
-"MaxRank": "4"
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "jegalse-will-bring-in-a-soninlaw-with-a-bowl-of-jjajang",
+"prioritet": "5",
+"GradeRank": "2",
+"MinRank": "0",
+"MaxRank": "2"
 },
 {
 "dir": "machines",
@@ -784,21 +826,14 @@
 "MaxRank": "0"
 },
 {
-"dir": "golden-boy--",
+"dir": "star-armor-soul-will-pass",
 "prioritet": "5",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
+"GradeRank": "4",
+"MinRank": "3",
+"MaxRank": "2"
 },
 {
-"dir": "i-am-invincible-in-the-postapocalyptic-fantasy-world/main",
-"prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
-},
-{
-"dir": "panty--stocking-with-garterbelt",
+"dir": "battle-angel-alita-mars-chronicle",
 "prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
@@ -812,25 +847,18 @@
 "MaxRank": "0"
 },
 {
-"dir": "the-demon-king-who-lost-his-job",
+"dir": "panty--stocking-with-garterbelt",
 "prioritet": "5",
-"GradeRank": "1",
+"GradeRank": "0",
 "MinRank": "0",
-"MaxRank": "1"
+"MaxRank": "0"
 },
 {
-"dir": "how-to-kill-a-go",
+"dir": "golden-boy--",
 "prioritet": "5",
-"GradeRank": "4",
-"MinRank": "3",
-"MaxRank": "4"
-},
-{
-"dir": "the-surviving-the-apocalypse-i-was-reborn-as-a-cockroach",
-"prioritet": "5",
-"GradeRank": "4",
-"MinRank": "3",
-"MaxRank": "4"
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
 },
 {
 "dir": "guilty-gear",
@@ -847,35 +875,35 @@
 "MaxRank": "0"
 },
 {
-"dir": "battle-angel-alita-mars-chronicle",
+"dir": "beautiful-new-world",
 "prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "star-armor-soul-will-pass",
+"dir": "rwby-the-official-manga",
+"prioritet": "5",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "dark-gathering",
+"prioritet": "5",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "dont-underestimate-a-big-carrot",
 "prioritet": "5",
 "GradeRank": "4",
 "MinRank": "3",
-"MaxRank": "2"
+"MaxRank": "4"
 },
 {
-"dir": "jegalse-will-bring-in-a-soninlaw-with-a-bowl-of-jjajang",
-"prioritet": "5",
-"GradeRank": "2",
-"MinRank": "0",
-"MaxRank": "2"
-},
-{
-"dir": "legend-of-sura-poison-dragon",
-"prioritet": "5",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "how-to-tame-a-monster-duke",
+"dir": "my-master-only-breaks-through-at-the-end-of-every-day",
 "prioritet": "5",
 "GradeRank": "4",
 "MinRank": "3",
@@ -889,11 +917,11 @@
 "MaxRank": "1"
 },
 {
-"dir": "princess-ai-monogatari",
+"dir": "inland-sea-bride",
 "prioritet": "5",
-"GradeRank": "4",
-"MinRank": "3",
-"MaxRank": "4"
+"GradeRank": "3",
+"MinRank": "2",
+"MaxRank": "3"
 },
 {
 "dir": "doomsday-sword-god-i-shocked-the-world",
@@ -931,11 +959,11 @@
 "MaxRank": "1"
 },
 {
-"dir": "the-pick-me-up",
+"dir": "brutus-and-pixie",
 "prioritet": "5",
-"GradeRank": "0",
+"GradeRank": "1",
 "MinRank": "0",
-"MaxRank": "0"
+"MaxRank": "1"
 },
 {
 "dir": "the-behindthescenes-work-of-the-student-body-president/main",
@@ -946,27 +974,6 @@
 },
 {
 "dir": "the-super-doctor-from-2089",
-"prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
-},
-{
-"dir": "volcano-sect-genius-swordsman",
-"prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
-},
-{
-"dir": "shinmas-line",
-"prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
-},
-{
-"dir": "gwichonri",
 "prioritet": "5",
 "GradeRank": "1",
 "MinRank": "0",
@@ -987,11 +994,11 @@
 "MaxRank": "0"
 },
 {
-"dir": "even-though-hes-a-rookie-hes-a-millionaire-actor",
+"dir": "holic",
 "prioritet": "4",
-"GradeRank": "3",
-"MinRank": "2",
-"MaxRank": "3"
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
 },
 {
 "dir": "star-wars-the-mandalorian",
@@ -1029,11 +1036,11 @@
 "MaxRank": "0"
 },
 {
-"dir": "second-good-life",
+"dir": "dungeon-meshi",
 "prioritet": "4",
-"GradeRank": "3",
-"MinRank": "2",
-"MaxRank": "3"
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
 },
 {
 "dir": "paradition",
@@ -1050,11 +1057,11 @@
 "MaxRank": "0"
 },
 {
-"dir": "prosecutor-does-not-know-the-law",
+"dir": "dorohedoro",
 "prioritet": "4",
-"GradeRank": "3",
-"MinRank": "2",
-"MaxRank": "3"
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
 },
 {
 "dir": "jojos_bizarre_adventure_part_4_diamond_is_unbreakable",
@@ -1062,13 +1069,6 @@
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
-},
-{
-"dir": "gangsta",
-"prioritet": "4",
-"GradeRank": "3",
-"MinRank": "2",
-"MaxRank": "3"
 },
 {
 "dir": "gantz",
@@ -1113,11 +1113,11 @@
 "MaxRank": "0"
 },
 {
-"dir": "the-welcome-to-dungeon-hotel",
+"dir": "the-sword-of-dawn",
 "prioritet": "4",
-"GradeRank": "3",
-"MinRank": "2",
-"MaxRank": "3"
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
 },
 {
 "dir": "star-wars-episode-1-the-phantom-menace",
@@ -1155,126 +1155,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "date-a-live",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "player",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "i-monopolized-the-youngest-princesss-favor-and-now-everyone-is-obsessed-with-me",
-"prioritet": "4",
-"GradeRank": "3",
-"MinRank": "2",
-"MaxRank": "3"
-},
-{
-"dir": "kurokos-basketball",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "the-dressup-doll-that-fell-in-love",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "valkyria-chronicles",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "jungle-juice",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "i-dstiny-villin",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "spy-x-family",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "i-made-a-deal-with-the-devil",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "tekken-comic",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "ledi-bag-i-kot-nuar",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "cyberpunk-2077",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "the-laws-of-cultivation",
-"prioritet": "4",
-"GradeRank": "2",
-"MinRank": "0",
-"MaxRank": "2"
-},
-{
-"dir": "reverse-1999",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "mushoku_tensei_if_i_get_to_a_parallel_universe_ill_bring",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "holic",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "dungeon-meshi",
+"dir": "alya-who-sits-next-to-me-sometimes-whispers-sweet-nothings-inn-russian",
 "prioritet": "4",
 "GradeRank": "0",
 "MinRank": "0",
@@ -1288,69 +1169,6 @@
 "MaxRank": "4"
 },
 {
-"dir": "i-really-dont-want-to-learn-the-forbidden-spell",
-"prioritet": "4",
-"GradeRank": "2",
-"MinRank": "0",
-"MaxRank": "2"
-},
-{
-"dir": "dandadan",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "undertale-art-book",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "alya-who-sits-next-to-me-sometimes-whispers-sweet-nothings-inn-russian",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "combat_continent",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "fighting-champion-go-to-moorim",
-"prioritet": "4",
-"GradeRank": "3",
-"MinRank": "2",
-"MaxRank": "3"
-},
-{
-"dir": "sss-level-hunter",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "witchblade-takeru",
-"prioritet": "4",
-"GradeRank": "3",
-"MinRank": "2",
-"MaxRank": "3"
-},
-{
-"dir": "absolute-witch",
-"prioritet": "4",
-"GradeRank": "2",
-"MinRank": "0",
-"MaxRank": "2"
-},
-{
 "dir": "dimension-w",
 "prioritet": "4",
 "GradeRank": "2",
@@ -1358,11 +1176,32 @@
 "MaxRank": "2"
 },
 {
+"dir": "the-slave-dukes-love-was-gentle-and-persistent",
+"prioritet": "4",
+"GradeRank": "3",
+"MinRank": "2",
+"MaxRank": "3"
+},
+{
+"dir": "i-monopolized-the-youngest-princesss-favor-and-now-everyone-is-obsessed-with-me",
+"prioritet": "4",
+"GradeRank": "3",
+"MinRank": "2",
+"MaxRank": "3"
+},
+{
 "dir": "the_world_god_only_knows",
 "prioritet": "4",
 "GradeRank": "2",
 "MinRank": "0",
 "MaxRank": "2"
+},
+{
+"dir": "kurokos-basketball",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
 },
 {
 "dir": "i-am-alone-with-bugs",
@@ -1384,6 +1223,13 @@
 "GradeRank": "2",
 "MinRank": "0",
 "MaxRank": "2"
+},
+{
+"dir": "the-dressup-doll-that-fell-in-love",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
 },
 {
 "dir": "poisonous-doctor-first-wifes-daughter",
@@ -1435,6 +1281,20 @@
 "MaxRank": "2"
 },
 {
+"dir": "valkyria-chronicles",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "jungle-juice",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
 "dir": "summoned-to-a-parallel-fantasy-world-many-times",
 "prioritet": "4",
 "GradeRank": "2",
@@ -1456,6 +1316,20 @@
 "MaxRank": "2"
 },
 {
+"dir": "i-dstiny-villin",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "spy-x-family",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
 "dir": "girl-by-day-boy-by-night",
 "prioritet": "4",
 "GradeRank": "2",
@@ -1463,7 +1337,42 @@
 "MaxRank": "2"
 },
 {
+"dir": "i-made-a-deal-with-the-devil",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
 "dir": "love-review",
+"prioritet": "4",
+"GradeRank": "2",
+"MinRank": "0",
+"MaxRank": "2"
+},
+{
+"dir": "the-a-child-who-resembles-me",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "tekken-comic",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "ledi-bag-i-kot-nuar",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "i-really-dont-want-to-learn-the-forbidden-spell",
 "prioritet": "4",
 "GradeRank": "2",
 "MinRank": "0",
@@ -1477,27 +1386,6 @@
 "MaxRank": "2"
 },
 {
-"dir": "monster",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "the-a-child-who-resembles-me",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "dorohedoro",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
 "dir": "erma",
 "prioritet": "4",
 "GradeRank": "0",
@@ -1505,18 +1393,46 @@
 "MaxRank": "0"
 },
 {
-"dir": "the-sword-of-dawn",
+"dir": "monster",
 "prioritet": "4",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "the-slave-dukes-love-was-gentle-and-persistent",
+"dir": "cyberpunk-2077",
 "prioritet": "4",
-"GradeRank": "3",
-"MinRank": "2",
-"MaxRank": "3"
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "the-laws-of-cultivation",
+"prioritet": "4",
+"GradeRank": "2",
+"MinRank": "0",
+"MaxRank": "2"
+},
+{
+"dir": "combat_continent",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "reverse-1999",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "dandadan",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
 },
 {
 "dir": "sin-mal-guns-girlz",
@@ -1547,7 +1463,21 @@
 "MaxRank": "0"
 },
 {
+"dir": "fighting-champion-go-to-moorim",
+"prioritet": "4",
+"GradeRank": "3",
+"MinRank": "2",
+"MaxRank": "3"
+},
+{
 "dir": "the-case-in-which-streaming-in-another-world-led-to-the-creation-of-a-massive-yandere-following",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "sss-level-hunter",
 "prioritet": "4",
 "GradeRank": "0",
 "MinRank": "0",
@@ -1566,13 +1496,6 @@
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
-},
-{
-"dir": "nine-sols-the-way-of-lear",
-"prioritet": "4",
-"GradeRank": "3",
-"MinRank": "2",
-"MaxRank": "3"
 },
 {
 "dir": "i-have-an-apocalyptic-dungeon",
@@ -1715,49 +1638,126 @@
 "MaxRank": "3"
 },
 {
-"dir": "injustice-gods-among-us",
+"dir": "even-though-hes-a-rookie-hes-a-millionaire-actor",
+"prioritet": "4",
+"GradeRank": "3",
+"MinRank": "2",
+"MaxRank": "3"
+},
+{
+"dir": "second-good-life",
+"prioritet": "4",
+"GradeRank": "3",
+"MinRank": "2",
+"MaxRank": "3"
+},
+{
+"dir": "nine-sols-the-way-of-lear",
+"prioritet": "4",
+"GradeRank": "3",
+"MinRank": "2",
+"MaxRank": "3"
+},
+{
+"dir": "prosecutor-does-not-know-the-law",
+"prioritet": "4",
+"GradeRank": "3",
+"MinRank": "2",
+"MaxRank": "3"
+},
+{
+"dir": "gangsta",
+"prioritet": "4",
+"GradeRank": "3",
+"MinRank": "2",
+"MaxRank": "3"
+},
+{
+"dir": "the-welcome-to-dungeon-hotel",
+"prioritet": "4",
+"GradeRank": "3",
+"MinRank": "2",
+"MaxRank": "3"
+},
+{
+"dir": "date-a-live",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "player",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "witchblade-takeru",
+"prioritet": "4",
+"GradeRank": "3",
+"MinRank": "2",
+"MaxRank": "3"
+},
+{
+"dir": "86__eighty_six_",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "absolute-witch",
+"prioritet": "4",
+"GradeRank": "2",
+"MinRank": "0",
+"MaxRank": "2"
+},
+{
+"dir": "eat-mom-firsts",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "claymore",
+"dir": "shadow-slave",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "code_geass_lelouch_of_the_rebellion",
+"dir": "meme-girls",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "lookism",
+"dir": "Последний экзорцист",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "fateapocrypha",
+"dir": "creepy-pharmacist-all-my-patients-are-horrible",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "haikyuu",
+"dir": "how-the-hell-do-i-love-you",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "crysis",
+"dir": "super-tenchan-needy-girl-overdose-official-anthology",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -1778,28 +1778,14 @@
 "MaxRank": "0"
 },
 {
-"dir": "possessed-by-academy-yagame",
+"dir": "the-from-goblin-to-goblin-god",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "the-lich-who-became-a-paladin",
-"prioritet": "3",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
-},
-{
-"dir": "the-kings-avatar",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "hellsing",
+"dir": "injustice-gods-among-us",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -1820,21 +1806,21 @@
 "MaxRank": "0"
 },
 {
-"dir": "akame_ga_kill",
+"dir": "claymore",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "oshi-no-ko",
+"dir": "deepwater",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "sverhestestvennoe",
+"dir": "code_geass_lelouch_of_the_rebellion",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -1848,56 +1834,56 @@
 "MaxRank": "0"
 },
 {
-"dir": "danganronpa-1-trial-version",
+"dir": "fateapocrypha",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "otel-hazbin--ohotnik",
+"dir": "record-of-lodoss-war--deedlits-tale",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "meme-girls",
+"dir": "haikyuu",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "amazing-spiderman",
+"dir": "crysis",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "Последний экзорцист",
+"dir": "a-world-where-women-woo-men",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "astonishing-xmen-vol-3",
+"dir": "pretty_guardian_sailor_moon",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "slave-of-the-magic-capitals-elite-troops",
+"dir": "the-return-of-the-a-ironblooded-hound",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "king-of-all-phases",
+"dir": "dosanko-gyaru-ha-namaramenkoi",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -1918,7 +1904,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "deepwater",
+"dir": "cowboy-bebop",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -1932,7 +1918,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "record-of-lodoss-war--deedlits-tale",
+"dir": "lady-to-queen",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -1946,7 +1932,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "dr_stone",
+"dir": "slave-of-the-magic-capitals-elite-troops",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -1995,7 +1981,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "black_lagoon",
+"dir": "astonishing-xmen-vol-3",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2016,7 +2002,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "the-return-of-the-a-ironblooded-hound",
+"dir": "amazing-spiderman",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2107,14 +2093,14 @@
 "MaxRank": "0"
 },
 {
-"dir": "death-is-the-only-ending-for-the-villainess",
+"dir": "otel-hazbin--ohotnik",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "cowboy-bebop",
+"dir": "death-is-the-only-ending-for-the-villainess",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2128,133 +2114,14 @@
 "MaxRank": "4"
 },
 {
-"dir": "the-boy-of-death",
+"dir": "oshi-no-ko",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "villain-to-kill",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "no-guns-life",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "imaizumins-house-is-a-place-for-gals-to-gather",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "silk",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "seraph_of_the_end",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "mitas-gift-box",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "spirited-away",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "comics-warhammer",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "spirit-king-elqueeness",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "made-of-stardust",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "white-blood",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "blazblue",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "steins_gate",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "eat-mom-firsts",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "the-mafia-nanny",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "shadow-slave",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "the-intern-female-divers",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "lady-to-queen",
+"dir": "hellsing",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2268,6 +2135,97 @@
 "MaxRank": "0"
 },
 {
+"dir": "the-intern-female-divers",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "the-mafia-nanny",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "steins_gate",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "blazblue",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "made-of-stardust",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "comics-warhammer",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "spirited-away",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "mitas-gift-box",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "imaizumins-house-is-a-place-for-gals-to-gather",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "the-boy-of-death",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "king-of-all-phases",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "the-lich-who-became-a-paladin",
+"prioritet": "3",
+"GradeRank": "1",
+"MinRank": "0",
+"MaxRank": "1"
+},
+{
+"dir": "possessed-by-academy-yagame",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
 "dir": "ergo-proksi-poputchiki-sentsona-i-mogilschik",
 "prioritet": "3",
 "GradeRank": "0",
@@ -2275,7 +2233,35 @@
 "MaxRank": "0"
 },
 {
-"dir": "dosanko-gyaru-ha-namaramenkoi",
+"dir": "spirit-king-elqueeness",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "dr_stone",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "villain-to-kill",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "seraph_of_the_end",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "black_lagoon",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2296,14 +2282,14 @@
 "MaxRank": "0"
 },
 {
-"dir": "creepy-pharmacist-all-my-patients-are-horrible",
+"dir": "danganronpa-1-trial-version",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "how-the-hell-do-i-love-you",
+"dir": "no-guns-life",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2317,7 +2303,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "super-tenchan-needy-girl-overdose-official-anthology",
+"dir": "the-kings-avatar",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2345,7 +2331,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "pretty_guardian_sailor_moon",
+"dir": "silk",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2373,7 +2359,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "the-from-goblin-to-goblin-god",
+"dir": "white-blood",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2408,7 +2394,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "86__eighty_six_",
+"dir": "akame_ga_kill",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2422,7 +2408,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "a-world-where-women-woo-men",
+"dir": "sverhestestvennoe",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2581,5 +2567,19 @@
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
+},
+{
+"dir": "sakamoto-days",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "call-of-duty-mobile-game-official-ip-animation",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "3",
+"MaxRank": "4"
 }
 ]
