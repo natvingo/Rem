@@ -1491,6 +1491,13 @@
 "MaxRank": "0"
 },
 {
+"dir": "player",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
 "dir": "imperfect-girl",
 "prioritet": "4",
 "GradeRank": "3",
@@ -1674,13 +1681,6 @@
 },
 {
 "dir": "star-wars-episode-1-the-phantom-menace",
-"prioritet": "4",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "player",
 "prioritet": "4",
 "GradeRank": "0",
 "MinRank": "0",
@@ -1974,7 +1974,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "on-the-way-to-see-mom",
+"dir": "slave-of-the-magic-capitals-elite-troops",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -1988,7 +1988,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "slave-of-the-magic-capitals-elite-troops",
+"dir": "astonishing-xmen-vol-3",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2079,14 +2079,14 @@
 "MaxRank": "0"
 },
 {
-"dir": "astonishing-xmen-vol-3",
+"dir": "amazing-spiderman",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "amazing-spiderman",
+"dir": "otel-hazbin--ohotnik",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2098,13 +2098,6 @@
 "GradeRank": "0",
 "MinRank": "4",
 "MaxRank": "4"
-},
-{
-"dir": "otel-hazbin--ohotnik",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
 },
 {
 "dir": "oshi-no-ko",
@@ -2247,6 +2240,13 @@
 "MaxRank": "0"
 },
 {
+"dir": "villain-to-kill",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
 "dir": "dr_stone",
 "prioritet": "3",
 "GradeRank": "0",
@@ -2268,13 +2268,6 @@
 "MaxRank": "0"
 },
 {
-"dir": "villain-to-kill",
-"prioritet": "3",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
 "dir": "danganronpa-1-trial-version",
 "prioritet": "3",
 "GradeRank": "0",
@@ -2289,6 +2282,13 @@
 "MaxRank": "0"
 },
 {
+"dir": "sverhestestvennoe",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
 "dir": "the-seven-deadly-sins-production",
 "prioritet": "3",
 "GradeRank": "0",
@@ -2296,7 +2296,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "sverhestestvennoe",
+"dir": "on-the-way-to-see-mom",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
@@ -2612,6 +2612,13 @@
 },
 {
 "dir": "leviathan--projectmoon-comics",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "not-at-work",
 "prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
