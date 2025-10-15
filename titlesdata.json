@@ -28,7 +28,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "elden-ring-become-load",
+"dir": "sorcery-fight",
 "prioritet": "7",
 "GradeRank": "0",
 "MinRank": "0",
@@ -49,21 +49,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "dungeons--dragons-legends-of-baldurs-gate",
-"prioritet": "7",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
 "dir": "ghost-rider",
-"prioritet": "7",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "sorcery-fight",
 "prioritet": "7",
 "GradeRank": "0",
 "MinRank": "0",
@@ -77,6 +63,20 @@
 "MaxRank": "0"
 },
 {
+"dir": "dungeons--dragons-legends-of-baldurs-gate",
+"prioritet": "7",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "elden-ring-become-load",
+"prioritet": "7",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
 "dir": "vampire-hunter-d",
 "prioritet": "7",
 "GradeRank": "0",
@@ -84,28 +84,14 @@
 "MaxRank": "0"
 },
 {
-"dir": "stories-of-remanga-events",
-"prioritet": "6",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "fategrand-orderturas-realta",
-"prioritet": "6",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "re_zero_kara_hajimeru_isekai_seikatsu_daisanshou_truth_of_zero",
-"prioritet": "6",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
 "dir": "avatar__the_last_airbender",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "love-and-deepspace",
 "prioritet": "6",
 "GradeRank": "0",
 "MinRank": "0",
@@ -133,14 +119,14 @@
 "MaxRank": "0"
 },
 {
-"dir": "liliths-cord",
+"dir": "wuthering-waves",
 "prioritet": "6",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
 },
 {
-"dir": "the-witcher-fading-memories",
+"dir": "kingdom_of_gems",
 "prioritet": "6",
 "GradeRank": "0",
 "MinRank": "0",
@@ -161,21 +147,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "wuthering-waves",
-"prioritet": "6",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "mushoku_tensei_if_i_get_to_a_parallel_universe_ill_bring",
-"prioritet": "6",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "kingdom_of_gems",
+"dir": "liliths-cord",
 "prioritet": "6",
 "GradeRank": "0",
 "MinRank": "0",
@@ -189,8 +161,64 @@
 "MaxRank": "4"
 },
 {
-"dir": "love-and-deepspace",
+"dir": "stories-of-remanga-events",
 "prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "mushoku_tensei_if_i_get_to_a_parallel_universe_ill_bring",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "the-witcher-fading-memories",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "fategrand-orderturas-realta",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "re_zero_kara_hajimeru_isekai_seikatsu_daisanshou_truth_of_zero",
+"prioritet": "6",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "naruto",
+"prioritet": "5",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "one_punch_man",
+"prioritet": "5",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "black_clover",
+"prioritet": "5",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "rosario_to_vampire",
+"prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
@@ -273,7 +301,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "fairy-tail-100-years-quest",
+"dir": "granblue-fantasy",
 "prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
@@ -322,7 +350,7 @@
 "MaxRank": "0"
 },
 {
-"dir": "granblue-fantasy",
+"dir": "fairy-tail-100-years-quest",
 "prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
@@ -644,13 +672,6 @@
 "MaxRank": "1"
 },
 {
-"dir": "i-broke-off-my-engagement-with-the-state",
-"prioritet": "5",
-"GradeRank": "1",
-"MinRank": "0",
-"MaxRank": "1"
-},
-{
 "dir": "the-eminence-in-shadow",
 "prioritet": "5",
 "GradeRank": "0",
@@ -784,13 +805,6 @@
 "MaxRank": "1"
 },
 {
-"dir": "naruto",
-"prioritet": "5",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
 "dir": "literary_stray_dogs",
 "prioritet": "5",
 "GradeRank": "0",
@@ -834,13 +848,6 @@
 },
 {
 "dir": "golden-boy--",
-"prioritet": "5",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "one_punch_man",
 "prioritet": "5",
 "GradeRank": "0",
 "MinRank": "0",
@@ -924,6 +931,13 @@
 "MaxRank": "4"
 },
 {
+"dir": "final-fantasy-vii-dj--the-incomplete",
+"prioritet": "5",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
 "dir": "noblesse",
 "prioritet": "5",
 "GradeRank": "0",
@@ -931,18 +945,11 @@
 "MaxRank": "0"
 },
 {
-"dir": "black_clover",
+"dir": "i-broke-off-my-engagement-with-the-state",
 "prioritet": "5",
-"GradeRank": "0",
+"GradeRank": "1",
 "MinRank": "0",
-"MaxRank": "0"
-},
-{
-"dir": "rosario_to_vampire",
-"prioritet": "5",
-"GradeRank": "0",
-"MinRank": "0",
-"MaxRank": "0"
+"MaxRank": "1"
 },
 {
 "dir": "bayonetta-bloody-fate",
@@ -952,8 +959,155 @@
 "MaxRank": "0"
 },
 {
-"dir": "final-fantasy-vii-dj--the-incomplete",
-"prioritet": "5",
+"dir": "cyberpunk-2077",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "i-have-an-apocalyptic-dungeon",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "dont-smoke",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "the-seven-deadly-sins-production",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "3",
+"MaxRank": "0"
+},
+{
+"dir": "survive-as-a-barbarian-ingame",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "soulcalibur-spirit-sword",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "there-are-no-bad-warriors-in-the-world",
+"prioritet": "4",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "between-one-boat-ride",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "the-mafia-nanny",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "imaizumins-house-is-a-place-for-gals-to-gather",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "you-can-do-it-doukichan",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "beautiful-days",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "observation-diary",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "kasane",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "white-blood",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "black_lagoon",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "made-of-stardust",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "boruto-two-blue-vortex",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "a-will-eternal",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "water-overflow",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "the-warrior-is-disappointed-in-you",
+"prioritet": "3",
+"GradeRank": "0",
+"MinRank": "0",
+"MaxRank": "0"
+},
+{
+"dir": "mononoke",
+"prioritet": "3",
 "GradeRank": "0",
 "MinRank": "0",
 "MaxRank": "0"
