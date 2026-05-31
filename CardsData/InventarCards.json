@@ -1,0 +1,164 @@
+{
+  "cards": {
+    "20694": {
+      "inventory_id": 28510334,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_94fa757a.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "20725": {
+      "inventory_id": 28501511,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_78fbb4e1.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "25634": {
+      "inventory_id": 26158121,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_3949be59.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "25637": {
+      "inventory_id": 29859435,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_cee1a30e.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "128991": {
+      "inventory_id": 25678014,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_6caf7262.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "182203": {
+      "inventory_id": 25267021,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_8c0ef7cc4fe94433.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "183462": {
+      "inventory_id": 25485962,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_35079d4b786c46e9.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "183942": {
+      "inventory_id": 27079405,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_c4fc872727e2439e.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "183943": {
+      "inventory_id": 25630392,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_e6b1749136714845.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "188360": {
+      "inventory_id": 26351324,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_e2937f7dad554e76.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "188361": {
+      "inventory_id": 26750718,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_b1cca7fe7347438d.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "188791": {
+      "inventory_id": 27106665,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_69751ab80ac04eda.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "191873": {
+      "inventory_id": 29438233,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_058b72de5176490d.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "191874": {
+      "inventory_id": 27311402,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_16da79ba69e3440f.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "192478": {
+      "inventory_id": 27310469,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_596bf28cc6e24a4b.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "198207": {
+      "inventory_id": 30124227,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_1306203e911a49e1.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "198211": {
+      "inventory_id": 31511199,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_f27bdb7099424925.webm",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "198214": {
+      "inventory_id": 30124326,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_773a06fce76f4575.webm",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": 2
+    },
+    "198464": {
+      "inventory_id": 30124266,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_36754c9ab2794b82.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    },
+    "198695": {
+      "inventory_id": 31965423,
+      "stack_count": 1,
+      "cover_mid": "/media/card-item/cover_9e2b2132d54841da.webp",
+      "rank": "rank_re",
+      "title_id": null,
+      "wish_type": null
+    }
+  }
+}
