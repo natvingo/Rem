@@ -17,8 +17,15 @@
 		"dir": "goddess-of-victory-nikke-official-fourpanel-comics",
 		"prioritet": "5",
 		"GradeRank": "0",
-		"MinRank": "1",
-		"MaxRank": "1"
-	}
+		"MinRank": "0",
+		"MaxRank": "0"
+	},
+	{
+		"dir": "how-about-this-position",
+		"prioritet": "4",
+		"GradeRank": "0",
+		"MinRank": "0",
+		"MaxRank": "0"
+	}	
 ]
 
